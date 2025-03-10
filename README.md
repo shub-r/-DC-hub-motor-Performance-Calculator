@@ -1,5 +1,6 @@
+![Logo image1](https://github.com/user-attachments/assets/8eba302e-c8f1-4546-9e0b-66469b2d8a95)
 
-# DC Hub Motor Performance Estimator/Calculator  (Python)
+# DC Hub Motor Performance Estimator/Calculator (Python)
 
 The DC Hub Motor Performance Calculator is a Python tool designed to estimate the performance of a DC hub motor based on user-supplied design inputs. It provides key parameters such as operating speed, torque, efficiency, heat loss, and temperature rise, giving you a practical insight into motor behavior.
 
@@ -52,3 +53,6 @@ The DC Hub Motor Performance Calculator is a Python tool designed to estimate th
 
 you’re ready to use the DC Hub Motor Performance Calculator!
 and performance your estimations  
+
+by shhubham.R
+act.for.collage@gmail.com
